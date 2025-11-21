@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { dummyPublishedImages } from '../assets/assets'
 import Loading from './Loading'
 import toast from 'react-hot-toast'
-import { set } from 'react-hook-form'
+
 import { useAppContext } from "../context/AppContext";
 
 
