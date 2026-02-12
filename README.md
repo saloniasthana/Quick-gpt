@@ -72,6 +72,8 @@ The platform integrates powerful AI models like **Gemini/OpenAI** and handles me
 
 ---
 
+DEMO LINK-  https://quick-gpt-zeta-ten.vercel.app/ 
+
 ## 👩‍💻 Maintainer
 **Saloni Asthana**
 
